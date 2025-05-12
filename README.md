@@ -107,7 +107,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: South America/Argentina
 
 💬 Programming Languages: 
 Python                  ██████████████░░░░░░░░░░░   52.08 % 
